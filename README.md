@@ -20,13 +20,15 @@ A command-line movie tracking application that lets you search, rate, and organi
 - **JSON** (for data handling)
 - **HTTPURLConnection** (for API requests)
 
+## Contributing 🤝
+Contributions are welcome! Please fork the repository and create a pull request.
+
 ## Quick Start 🚀
 1. Get an API key from [OMDb](https://www.omdbapi.com/apikey.aspx)
 2. Replace `APIKEY` in `MovieTrackerCLI.java`
 3. Compile & run:
 ```bash
 javac MovieTracker.java
-java MovieTracker ```
+java MovieTracker
 
-## Contributing 🤝
-Contributions are welcome! Please fork the repository and create a pull request.
+
