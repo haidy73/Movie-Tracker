@@ -26,7 +26,7 @@ A command-line movie tracking application that lets you search, rate, and organi
 3. Compile & run:
 ```bash
 javac MovieTracker.java
-java MovieTracker 
+java MovieTracker ```
 
 ## Contributing 🤝
 Contributions are welcome! Please fork the repository and create a pull request.
